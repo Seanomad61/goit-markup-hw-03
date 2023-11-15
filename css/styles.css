@@ -45,6 +45,28 @@ img {
   box-sizing: border-box;
 }
 
+/* Header-styles */
+.header-styles {
+  border-bottom: 1px solid #e7e9fc;
+}
+.header-content {
+  display: flex;
+}
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.nav-styles {
+  display: flex;
+  align-items: center;
+}
+
+.logo-style {
+  margin-right: 76px;
+}
+
 /* Logo-style */
 .logo {
   font-family: "Raleway", sans-serif;
