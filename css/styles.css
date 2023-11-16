@@ -159,6 +159,9 @@ img {
   background-color: #404bbf;
 }
 /* section-two-three-portfolio-style */
+.benefits-list {
+  padding: 120px 0;
+}
 .section-title {
   color: #2e2f42;
   text-align: center;
