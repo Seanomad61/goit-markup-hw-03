@@ -51,11 +51,6 @@ img {
 }
 .header-content {
   display: flex;
-  container {
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
-  }
 }
 
 .nav-styles {
@@ -65,6 +60,10 @@ img {
 
 .logo-style {
   margin-right: 76px;
+}
+.container {
+  width: 1158px;
+  padding: 15px;
 }
 
 /* Logo-style */
