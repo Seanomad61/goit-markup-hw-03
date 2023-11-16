@@ -172,7 +172,10 @@ img {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
-  visibility: hidden;
+}
+.benefits-styles {
+  display: flex;
+  gap: 24px;
 }
 .list-title {
   color: #2e2f42;
