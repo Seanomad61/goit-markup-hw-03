@@ -162,6 +162,9 @@ img {
 .benefits-list {
   padding: 120px 0;
 }
+.visually-hidden {
+  visibility: hidden;
+}
 .section-title {
   color: #2e2f42;
   text-align: center;
@@ -177,7 +180,7 @@ img {
   display: flex;
   gap: 24px;
 }
-.benefits-items {
+.list-text {
   width: calc((100%-72px) / 4);
 }
 
@@ -201,6 +204,7 @@ img {
 /* our-team */
 .our-team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .list-our-team {
   background-color: #ffffff;
