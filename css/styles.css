@@ -89,16 +89,21 @@ img {
   line-height: 1.17;
   letter-spacing: 0.54px;
 }
-/* Links-navigation-style */
+/* Menu-Links-navigation-style */
 .link-navigation {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px;
 }
 .link-navigation:hover,
 .link-navigation:focus {
   color: #404bbf;
+}
+.menu-styles {
+  display: flex;
+  gap: 40px;
 }
 /* Adress-contacts-style */
 .contacts {
