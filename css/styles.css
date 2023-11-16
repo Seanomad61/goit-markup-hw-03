@@ -90,14 +90,16 @@ img {
   letter-spacing: 0.54px;
 }
 /* Menu-Links-navigation-style */
+.menu-styles {
+  display: flex;
+  gap: 40px;
+}
 .link-navigation {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding: 24px;
-  display: flex;
-  padding: 24px;
+  padding: 24px 0;
 }
 .link-navigation:hover,
 .link-navigation:focus {
