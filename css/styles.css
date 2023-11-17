@@ -77,7 +77,7 @@ img {
 }
 
 /* Common-calc-section-two-three */
-.list-title {
+.benefits-items {
   width: calc((100%-72px) / 4);
 }
 
