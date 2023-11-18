@@ -245,6 +245,17 @@ img {
 .our-portfolio {
   padding-top: 120px;
 }
+.portfolio-styles {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+.item-content {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+}
 /* footer */
 .all-right {
   background-color: #2e2f42;
