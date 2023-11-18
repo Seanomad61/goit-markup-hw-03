@@ -241,6 +241,10 @@ img {
 .list-our-team {
   background-color: #ffffff;
 }
+/* section-four-portfolio */
+.our-portfolio {
+  padding-top: 120px;
+}
 /* footer */
 .all-right {
   background-color: #2e2f42;
