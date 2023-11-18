@@ -246,12 +246,16 @@ img {
 /* section-four-portfolio */
 .our-portfolio {
   padding-top: 120px;
+  padding-bottom: 120px;
 }
 .portfolio-styles {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+}
+.portfolio-item-styles {
+  width: calc((100%-48px) / 3);
 }
 .item-content {
   padding: 32px 16px;
