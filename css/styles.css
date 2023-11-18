@@ -111,6 +111,8 @@ img {
   letter-spacing: 0.54px;
   text-transform: uppercase;
   margin-right: 76px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .text-logo {
@@ -259,6 +261,7 @@ img {
 /* footer */
 .all-right {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 .all-right-logo {
   color: #f4f4fd;
@@ -274,6 +277,7 @@ img {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
 li {
   background-color: #ffffff;
